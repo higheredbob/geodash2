@@ -1,0 +1,29 @@
+<svg id="svg2" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="11.289mm" width="9.0311mm" version="1.1" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" viewBox="0 0 31.999999 40">
+ <defs id="defs4">
+  <filter id="d" style="color-interpolation-filters:sRGB" height="2.7696" width="1.1856" y="-.88480" x="-.092811">
+   <feGaussianBlur id="feGaussianBlur134971" stdDeviation="5.5861435"/>
+  </filter>
+  <filter id="c" style="color-interpolation-filters:sRGB" height="1.24" width="1.24" y="-.12" x="-.12">
+   <feGaussianBlur id="feGaussianBlur135025" stdDeviation="8.4852814"/>
+  </filter>
+  <filter id="b" style="color-interpolation-filters:sRGB" height="1.1444" width="1.2008" y="-0.0722" x="-.10041">
+   <feGaussianBlur id="feGaussianBlur135135" stdDeviation="10.407474"/>
+  </filter>
+  <filter id="a" style="color-interpolation-filters:sRGB" height="1.0839" width="1.1122" y="-.041935" x="-.056116">
+   <feGaussianBlur id="feGaussianBlur135153" stdDeviation="2.9141016"/>
+  </filter>
+ </defs>
+ <g id="layer1" fill-rule="evenodd" transform="translate(606.8 -795.32)">
+  <g id="markerAll" transform="translate(-38.386)">
+   <rect id="markerBbox" opacity="0.001" height="40" width="32" y="795.32" x="-568.42" fill="#424242"/>
+   <g id="g135161">
+    <path id="markerShad" opacity="0.526" d="m-427.98 776.77c3.805 114.54-111.31 216.62-123.31 216.92-14.059.35715-125.47-96.693-125.36-217.35 3.742-83.458 65.128-129.61 125.36-128.59 80.006 2.2537 121.85 60.313 123.31 129.01z" transform="matrix(.097254 0 0 .097254 -498.56 735.81)" filter="url(#b)" fill="#0e1315"/>
+    <path id="markerBackground" d="m-540.3 810.86c.36637 10.682-10.718 20.202-11.873 20.23-1.3537.0333-12.081-9.0175-12.07-20.269.36032-7.7832 6.2711-12.088 12.07-11.992 7.7036.21017 11.732 5.6247 11.873 12.032z" fill="#006d76"/>
+    <circle id="markerCirShad" opacity="0.636" transform="matrix(.098631 0 0 .098631 -497.8 735.6)" filter="url(#c)" cy="769.74" cx="-551.04" r="84.853" fill="#202a2e"/>
+    <circle id="markerCircle" opacity="0.245" cx="-552.15" cy="810.75" r="7.9133" fill="#69f0ae"/>
+    <path id="markerRoadShad" opacity="0.793" d="m-529.35 679.51c-55.122 41.021-81.58 83.589-86.816 136.2a84.853 84.853 0 0 0 65.123 30.578 84.853 84.853 0 0 0 59.508 -24.398c-34.259-55.875-34.992-100.4-19.926-135.45a84.853 84.853 0 0 0 -17.889 -6.9297z" transform="matrix(.093259 0 0 .093259 -500.76 739.74)" filter="url(#a)" fill="#424242"/>
+    <path id="markerRoad" opacity="0.902" d="m-550.13 803.11c-5.1406 3.8255-7.6081 7.7954-8.0964 12.702a7.9133 7.9133 0 0 0 6.0733 2.8517 7.9133 7.9133 0 0 0 5.5496 -2.2754c-3.195-5.2109-3.2633-9.3632-1.8583-12.632a7.9133 7.9133 0 0 0 -1.6683 -.64625z" fill="#fff"/>
+   </g>
+  </g>
+ </g>
+</svg>
