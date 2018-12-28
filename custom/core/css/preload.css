@@ -1,0 +1,10 @@
+.prev-btn-leaf {
+  background-image: url(images/previous.png);
+  box-shadow:  0 13px 34px -3px rgba(0,0,0,.5);
+}
+.prev-btn-leaf:hoover {
+  opacity: .2;
+}
+#next {
+  background-image:  url(images/next.png);
+}
